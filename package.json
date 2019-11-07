@@ -1,0 +1,18 @@
+{
+  "name": "cypress-treinamento",
+  "version": "1.0.0",
+  "description": "treino cypres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "matheus",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.6.0"
+  }
+}
